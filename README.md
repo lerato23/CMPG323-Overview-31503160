@@ -14,4 +14,3 @@ Project 2:
 # Use of .gitignore:
 
 # Storage of credentials and sensitive information:
-https://github.com/users/lerato23/projects/2/views/1
