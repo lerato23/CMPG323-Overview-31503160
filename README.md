@@ -10,8 +10,7 @@ For Project 5, a repository that will be created and used will be called "CMPG32
 ![dia 323](https://user-images.githubusercontent.com/92342798/185333324-175db372-f5d9-4ef9-8149-3fc340ccd484.PNG)
 
 # Branching Strategies:
-Git Flow - 
-GitHub Flow -
+Git Flow and GitHub Flow will be best strateies on the projects ahead
 
 # Use of .gitignore:
 The are parts and some files that I would not want to share publicly so this action will be useful as it is going to help on not tracking files I do not want to be tracked.  
