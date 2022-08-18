@@ -8,9 +8,14 @@ For Project 5, a repository that will be created and used will be called "CMPG32
 
 # Diagram
 
+
 # Branching Strategies:
-Project 2: 
+Git Flow - 
+GitHub Flow -
+
 
 # Use of .gitignore:
+The are parts and some files that I would not want to share publicly so this action will be useful as it is going to help on not tracking files I do not want to be tracked.  
 
 # Storage of credentials and sensitive information:
+I will be storing important information on files that will be saved on my personal computer as backup, E.g Word and Notepad. 
